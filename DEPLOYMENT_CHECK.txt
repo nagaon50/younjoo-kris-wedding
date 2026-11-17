@@ -1,1 +1,0 @@
-GitHub Pages deployment connection check. This file can be removed after deployment.
